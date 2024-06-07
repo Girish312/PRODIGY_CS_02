@@ -23,7 +23,7 @@ def decryptImage(encrypted_image_path, key):
     print("Image decrypted and saved as Decrypted_image.png")
 
 def main():
-    image_path = r"C:\Users\IMxGIRISH\OneDrive\Desktop\CS_Internship\fruits.png"
+    image_path = r"C:\Users\IMxGIRISH\OneDrive\Desktop\CS_Internship\fruits.png" #your img path
     key = 50
 
     encryptImage(image_path, key)
