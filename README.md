@@ -1,9 +1,8 @@
 # Image Encryption Tool
 
-Overview:
 This project is a simple image encryption tool using pixel manipulation. The tool provides functionality to encrypt and decrypt images by performing basic mathematical operations on the pixel values. This can be useful for securing image data in a straightforward manner.
 
-Features:
+## Features
 
 >Encryption: Adds a key value to each pixel in the image.
 
@@ -11,7 +10,7 @@ Features:
 
 >Supports RGB images.
 
-Requirements:
+## Requirements:
 
 >Python 3.x
 
